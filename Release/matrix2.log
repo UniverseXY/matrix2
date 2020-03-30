@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  main.cpp
+c:\users\админ\source\repos\matrix2\matrix2\main.cpp(13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\админ\source\repos\matrix2\matrix2\main.cpp(23): warning C4101: c: неиспользованная локальная переменная
+  Создание кода
+  2 of 151 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  matrix2.vcxproj -> C:\Users\Админ\source\repos\matrix2\matrix2\..\..\..\..\..\..\osPanel\domains\localhost\matr\main.cgi
